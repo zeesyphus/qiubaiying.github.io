@@ -3,7 +3,7 @@ title: Zisyphus's Blog
 SEOTitle: Zisyphus's Blog
 header-img: img/post-bg-desk.jpg
 email: hfwzou@163.com
-description: "Zisyphus is happy indeed, otherwise，life is meaningless."
+description: "Null"
 keyword: "Zisyphus, 西西弗斯"
 url: "http://zeesyphus.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "She was still too young to know that life never gives anything for nothing, and that a price is always exacted for what fate bestows."
+sidebar-about-description: "Zisyphus must be happy, otherwise，life is meaningless."
 sidebar-avatar: img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
