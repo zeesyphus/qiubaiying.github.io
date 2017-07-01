@@ -57,8 +57,8 @@ kramdown:
 # 评论系统
 # Disqus settings（https://disqus.com/）
 comments:
-  provider:disqus
-  short_name:zisyphus
+  provider: disqus
+  short_name: zisyphus
 
 
 
