@@ -58,7 +58,8 @@ kramdown:
 # Disqus settings（https://disqus.com/）
 comments:
   provider:disqus
-  short_name:zisyphus
+  disqus:
+    short_name:zisyphus
 
 
 
