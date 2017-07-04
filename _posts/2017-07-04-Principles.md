@@ -1,6 +1,6 @@
 ---
 layout:		post
-title:		
+title:      我的思维方式	
 subtitle:	
 date:		2017-07-04 
 author:		Zisyphus
