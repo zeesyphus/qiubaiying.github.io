@@ -7,7 +7,7 @@ author:		Zisyphus
 header-img:	img/post-bg-2017.jpg
 catalog:	true
 tags:
-    - Tags
+    - 生活
 ---
 
 # 思维方式	
